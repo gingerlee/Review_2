@@ -1,0 +1,14 @@
+.header {
+  margin-right: 10px;
+  background-color: beige;
+  }
+
+.navigation {
+  background-color: pink;
+}
+
+.navigation li {
+  display: inline;
+  margin-right: 10px;
+
+}
