@@ -9,7 +9,7 @@ This is my second code review for the Epicodus Introduction to Programming Summe
 ## Setup
 View my HTML and CSS files by cloning this repository:
 ```sh
-https://github.com/gingerlee/review_2
+https://github.com/gingerlee/review_2.git
 ```
 
 ## Technologies Used
