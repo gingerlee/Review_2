@@ -1,3 +1,7 @@
+.container {
+  background-color: #A8A19B;
+}
+
 .navigation {
   background-color: pink;
 }
@@ -10,10 +14,14 @@
 
 .column1 {
   float: left;
-  width: 600px;
+  width: 66%;
+  background-color: #9ACC99;
+  padding: 10px;
 }
 
 .column2 {
   float: left;
-  width: 300px;
+  width: 33%;
+  background-color: #9999CD;
+  padding: 10px;
 }
